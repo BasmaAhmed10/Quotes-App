@@ -1,0 +1,32 @@
+body
+{
+     font-family: "Roboto Condensed", sans-serif;
+    font-optical-sizing: auto; 
+}
+.title
+{
+    text-align: center;
+    padding: 30px;
+}
+.title h1
+{
+    font-size: 80px;
+    font-weight: bolder;
+}
+.title p
+{
+    padding: 30px;
+    font-size: 35px;
+}
+.title button
+{
+    width:250px ;
+    height:80px ;
+    background-color: #0501ff;
+    color: #f5f6f7;
+}
+button:hover
+{
+    background-color: #008000;
+    color: #fff;
+}
